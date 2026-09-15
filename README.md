@@ -9,6 +9,8 @@ Upstream population-genetic analyses (DAPC, PopCluster, FEEMS/FEEMSmix, LD
 decay, sampling map) are archived separately.
 
 ## Repository layout
+
+```
 .
 ├── 01_splatche/ SPLATCHE3 landscape parameterisation and runs
 │ ├── par/
@@ -45,6 +47,7 @@ decay, sampling map) are archived separately.
 │ └── abc_ratios.R Table S8 — cumulative immigrants across m
 │
 └── data/ Empirical inputs (populated by data curator)
+```
 
 ## Order of execution
 

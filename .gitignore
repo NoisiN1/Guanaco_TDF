@@ -1,0 +1,7 @@
+*.vcf *.vcf.gz *.vcf.gz.tbi
+*.bcf *.bam *.bai
+*.fasta *.fa *.fna *.fai
+*.rds *.RData *.rda
+.Rhistory __pycache__/ *.pyc
+.ipynb_checkpoints/ .DS_Store
+work/ .nextflow*

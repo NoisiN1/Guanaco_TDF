@@ -5,8 +5,6 @@ reported in the guanaco Tierra del Fuego manuscript
 (Peña-Monroy et al., *in prep.*).
 
 This package contains **only the SPLATCHE + ABC portion** of the pipeline.
-Upstream population-genetic analyses (DAPC, PopCluster, FEEMS/FEEMSmix, LD
-decay, sampling map) are archived separately.
 
 ## Repository layout
 

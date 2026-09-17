@@ -94,7 +94,8 @@ This package contains **only the SPLATCHE + ABC portion** of the pipeline.
   of that file for licence and contact information.
 - All other scripts by the manuscript authors.
 
-## The variant data for this study have been deposited in the European Variation Archive (EVA): 
+## The variant data for this study have been deposited in the European Variation Archive (EVA)
+
 EMBL-EBI under accession number PRJEB126750 (https://www.ebi.ac.uk/eva/?eva-study=PRJEB126750)
 
 ## Known issues
